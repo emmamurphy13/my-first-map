@@ -1,4 +1,5 @@
 <script>
+  import { base } from '$app/paths';
   const currentYear = new Date().getFullYear();
 </script>
 
@@ -85,7 +86,7 @@
     <!-- Logo + copyright -->
     <div class="footer-bottom">
       <a href="https://www.chalkbeat.org/" class="footer-logo-link" aria-label="Chalkbeat">
-        <img src="/chalkfoot.png" alt="Chalkbeat" class="footer-logo" />
+        <img src="{base}/chalkfoot.png" alt="Chalkbeat" class="footer-logo" />
       </a>
       <p class="footer-copyright">Chalkbeat is a Civic News Company Newsroom &copy;{currentYear}</p>
     </div>

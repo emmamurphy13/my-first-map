@@ -1,5 +1,6 @@
 <script>
   import { onMount } from 'svelte';
+  import { base } from '$app/paths';
 
   let scrolled = $state(false);
 
@@ -22,7 +23,7 @@
       <div class="top-bar-side top-bar-left"></div>
 
       <a href="https://www.chalkbeat.org/" class="logo-link" aria-label="Chalkbeat">
-        <img src="/chalkbeatlogo.png" alt="Chalkbeat" class="logo" />
+        <img src="{base}/chalkbeatlogo.png" alt="Chalkbeat" class="logo" />
       </a>
 
       <div class="top-bar-side top-bar-right">
