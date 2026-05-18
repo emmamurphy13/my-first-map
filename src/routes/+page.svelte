@@ -164,8 +164,8 @@
     Areas farther from metropolitan centers tend to have fewer ELLs and this can lead to
     isolation. It also means that these districts very rarely qualify for bilingual or dual
     language programs which need 20 or more English language learners who speak the same
-    language at home to be implemented. Research shows these programs have higher success than
-    the standard English as a New Language classes.
+    language at home to be implemented. Research shows these programs have higher educational
+    success than standard "English as a New Language" classes.
   </p>
 
   <h2 class="map-subheadline">Compare School Districts</h2>
